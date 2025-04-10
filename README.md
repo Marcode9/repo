@@ -1,2 +1,3 @@
 #testrepo
-type[1]
+print('hello Mort')
+
